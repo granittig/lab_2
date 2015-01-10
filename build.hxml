@@ -1,0 +1,6 @@
+-swf game-hx.swf
+-main game.objects.Scene
+-swf-header 550:400:60:AAAAAA
+-dce full
+--flash-strict
+-swf-version 12
